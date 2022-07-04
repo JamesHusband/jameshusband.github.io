@@ -10,4 +10,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ## Example Operator Page For Testing
 
 
-
+<button type="button" id="regButton">Register</button>
