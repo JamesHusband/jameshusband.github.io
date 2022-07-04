@@ -7,7 +7,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
-## Example Operator Page For Testing
+## Example Operator Page For Testing Pixel Tracking
 
 
 <h1>Track Register OnClick</h1>
